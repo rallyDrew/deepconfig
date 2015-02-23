@@ -1,12 +1,12 @@
 {
   "name": "deepconfig",
-  "version": "0.1.0",
+  "version": "1.0.0",
 
   "repository": {
     "type": "git",
     "url": "https://github.com/rallyDrew/deepconfig.git"
   },
-  
+
   "description": "Read config settings from envVars and command line",
   "main": "deepconfig.js",
   "scripts": {
