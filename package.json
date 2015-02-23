@@ -1,0 +1,23 @@
+{
+  "name": "deepconfig",
+  "version": "0.1.0",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rallyDrew/deepconfig.git"
+  },
+  
+  "description": "Read config settings from envVars and command line",
+  "main": "deepconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "environment",
+    "variables",
+    "config",
+    "arguments"
+  ],
+  "author": "Drew Easley",
+  "license": "ISC"
+}
